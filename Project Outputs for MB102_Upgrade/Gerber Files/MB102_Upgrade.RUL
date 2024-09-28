@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\Documents\AD24 - Proyects\MB102_Upgrade\MB102_Upgrade.PcbDoc
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_2|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_1|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width_RF|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=6.00

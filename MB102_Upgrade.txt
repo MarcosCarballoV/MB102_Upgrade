@@ -1,0 +1,60 @@
+Board Information Report
+Filename     : D:\Documents\AD24 - Proyects\MB102_Upgrade\MB102_Upgrade.PcbDoc
+Date         : 24/08/2024
+Time         : 02:53:24 a. m.
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2090.551milsx1299.228mils
+    Components on board, 81
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 191
+    Connections routed, 191
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 190, 0, 364, 0, 0, 18, 0
+    Bottom Layer, 0, 0, 0, 128, 0, 0, 10, 0
+    3D Bodys, 0, 0, 0, 0, 0, 0, 0, 57
+    Board Shape, 0, 0, 0, 0, 0, 0, 0, 0
+    DXF, 2, 0, 0, 42, 0, 0, 0, 0
+    Top Assembly, 17, 0, 0, 225, 54, 0, 9, 3
+    Bottom Assembly, 0, 0, 0, 16, 4, 0, 0, 0
+    Multi-Layer, 0, 47, 110, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 2, 0
+    Top Overlay, 17, 0, 0, 174, 163, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 28, 27, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 2, 0, 0, 10, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Via Solder Mask, Count
+    1mils, 55
+    4mils, 55
+count : 2
+
+Track Width, Count
+    3.937mils, 5
+    5mils, 71
+    6mils, 216
+    7.874mils, 44
+    8mils, 124
+    10mils, 125
+    15mils, 6
+    20mils, 9
+    22mils, 370
+    30mils, 9
+    40mils, 8
+count : 11
+
+Net Via Size, Count
+    27.559mils, 43
+count : 1

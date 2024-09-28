@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MB102_Upgrade.PcbDoc   28/09/2024  01:56:14 p. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MB102_Upgrade.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             8         PTH        0.50inch (12.67mm)
+T2      14mil (0.35mm)                                            Round             109       PTH        17.73inch (450.23mm)
+T3      32mil (0.8mm)                                             Round             3         PTH        0.16inch (4.00mm)
+T4      34mil (0.86mm)                                            Round             2         PTH        0.08inch (2.00mm)
+T5      35mil (0.9mm)                                             Round             24        PTH        4.53inch (115.06mm)
+T6      39mil (1mm)                                               Round             2         PTH        0.31inch (8.00mm)
+T7      43mil (1.1mm)                                             Round             8         PTH        1.95inch (49.53mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              156
+
+Total Processing Time (hh:mm:ss) : 00:00:00
