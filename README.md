@@ -23,6 +23,9 @@ This project presents a custom PCB design created in Altium Designer, improving 
 - **Battery Status Indicator:** Charging/full status pins.
 - **Independent Power Control:** Enable/disable 3.3V or 5V regulators individually.
 
+## Authors
+
+- [@MarcosCarballoV](https://github.com/MarcosCarballoV/)
 
 ## Ordering the PCB (JLCPCB/PCBWay)
 
@@ -78,28 +81,17 @@ This custom PCB offers several key improvements over the MB102:
   <em>Schematic of MB102 Upgrade</em>
 </p>
 
+## Future Work
+We are currently working on ordering the components and assembly for subsequent electrical testing, evaluating the capabilities of the SEPIC sources along with enabling and disabling controls, buttons, and reading voltage and battery status.
+
 ## Assembly and Testing
 
 ### Physical Assembly
 The board was assembled using through-hole and surface-mount components. Special attention was paid to the orientation and placement of key components to ensure that the layout matches the design.
 
-<p align="center">
-  <img src="" alt="PCB Assembly">
-  <br>
-  <em>Assembly of the PCB</em>
-</p>
 
 ### Electrical Testing
 After assembly the boards, the following tests:
 - **Continuity Tests:** Ensured that all connections were properly made without any shorts or open circuits.
 - **Power-On Test:** Verified the correct voltage outputs (5V and 3.3V) with no significant voltage drops.
 - **Load Testing:** The board was tested under different loads to verify that it could maintain stable output voltage without overheating or overloading the components.
-
-
-
-## Future Work
-Currently, we are working on miniaturizing the design further to make it suitable for portable applications. The next iteration will focus on reducing size while maintaining power efficiency and stability.
-
-## Authors
-
-- [@tu_usuario](https://github.com/tu_usuario)
