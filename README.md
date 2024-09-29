@@ -60,12 +60,12 @@ This custom PCB offers several key improvements over the MB102:
 
 
 - **Power Supply:** Added support for a 1-cell LiPo battery with a 2-pin JST-PH connector (without NTC).
-- **Dynamic Power Path Management:** Integrated LiPo battery charger with dynamic power path management for optimized power distribution.
+- **Dynamic Power Path Management:** Integrated LiPo battery charger with dynamic power path management for optimized power distribution. With the [BQ2407x](https://www.ti.com/lit/ds/symlink/bq24074.pdf).
 - **USB-C Connector:** Upgraded to a USB-C connector for modern power and data interfaces.
-- **Power Control:** Equipped with a switch for complete device shutdown.
+- **Power Control:** Equipped with a switch for complete device shutdown, controlled by a load switch, the [AP2281](https://www.diodes.com/assets/Datasheets/AP2281.pdf).
 - **Configurable Buttons:** SMD buttons configurable with pull-down or pull-up resistors.
-- **Advanced Power Regulation:** SEPIC-type switching regulators providing stable 5V and 3.3V outputs.
-- **Low Power Consumption:** Added a 3.3V LDO for projects utilizing microcontroller sleep modes.
+- **Advanced Power Regulation:** SEPIC-type switching regulators providing stable 5V and 3.3V outputs, using the [TPS63031](https://www.ti.com/lit/ds/symlink/tps63031.pdf), which can achieve 500 mA in step-up and 800 mA in step-down.
+- **Low Power Consumption:** Added a 3.3V LDO for projects utilizing microcontroller sleep modes, compatible with any LDO in a SOT23-5 package. In this design, the Enable pin is always active.
 - **Battery Monitoring:** Battery level measurement using a resistive divider controlled by MOSFETs for accurate readings.
 - **Battery Status Indicator:** Pin and indicator for battery status notifications (charging or fully charged).
 - **Independent Power Control:** Pins available to individually enable or disable each switching regulator (3.3V or 5V).
