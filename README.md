@@ -1,5 +1,5 @@
 # Custom MB102 PCB Design in Altium Designer
-[![Altium Designer](https://img.shields.io/badge/Altium-21.0-blue.svg)](https://www.altium.com/)
+[![Altium Designer](https://img.shields.io/badge/Altium-24.0-blue.svg)](https://www.altium.com/)
 
 ## Overview
 This project presents a custom PCB design created in Altium Designer, improving upon the original MB102 power supply module. Key upgrades include LiPo battery support, dynamic power management, USB-C connectivity, and enhanced power control with dual SEPIC switching regulators. Additional features such as configurable SMD buttons, battery monitoring, and independent power source control make this board highly versatile. The design files are ready for manufacturing through JLCPCB or PCBWay.
